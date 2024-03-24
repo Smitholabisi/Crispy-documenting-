@@ -5,7 +5,7 @@
 This project analysis and demonstrate the mastery of PostgreSQl queryung technique; 
 
 - Generate Insights
-- Completx queries
+- Complex queries
 - Optimize SQL queries
 
 
