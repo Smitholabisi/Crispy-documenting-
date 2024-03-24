@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analysis and demonstrate the mastery of PostgreSQl queryung technique; 
+This project analysis and demonstrate the mastery of PostgreSQl querying technique; 
 
 - Generate Insights
 - Complex queries
